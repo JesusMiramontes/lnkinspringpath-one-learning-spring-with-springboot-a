@@ -1,9 +1,12 @@
 package com.miramontes.one.linkin.becomespringdev.data.entities;
 
+import lombok.Data;
+
 import javax.persistence.*;
 
 @Entity
 @Table(name = "GUEST")
+@Data
 public class Guest {
     @Id
     @Column(name = "GUEST_ID")

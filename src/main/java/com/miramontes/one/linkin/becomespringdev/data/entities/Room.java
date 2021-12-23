@@ -11,7 +11,7 @@ public class Room {
     @Id
     @Column(name = "ROOM_ID")
     @GeneratedValue(strategy = GenerationType.AUTO)
-    private Long id;
+    private Long roomId;
 
     @Column(name = "NAME ")
     private String name;
