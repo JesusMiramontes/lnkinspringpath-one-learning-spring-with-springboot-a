@@ -7,7 +7,7 @@ import java.util.Date;
 @Data
 // This class is only a DTL.
 public class RoomReservation {
-    private Long id;
+    private Long roomId;
     private Long guestId;
     private String roomName;
     private String roomNumber;
