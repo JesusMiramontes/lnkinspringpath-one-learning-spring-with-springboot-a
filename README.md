@@ -1,5 +1,6 @@
-# 1) Spring Boot App  
+# 1) Linkedin Spring Learning Path: Learn Spring with SpringBoot - A 
 ## Summary
+Code part of course: https://www.linkedin.com/learning/learning-spring-with-spring-boot-2
   
 ## Topics
 1) **spring.jpa.hibernate.ddl-auto=none** Tell spring not to configure a DB. We already did.
