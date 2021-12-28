@@ -15,3 +15,4 @@ Code part of course: https://www.linkedin.com/learning/learning-spring-with-spri
 
 ## Tools
 1) h2 db.
+2) Thymeleaf
