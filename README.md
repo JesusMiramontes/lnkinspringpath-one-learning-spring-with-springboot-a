@@ -8,6 +8,10 @@ Code part of course: https://www.linkedin.com/learning/learning-spring-with-spri
 3) JPA Entities and repositories.
 4) DTL
 5) @Service
+6) @RequestParam
+7) @RequestMapping
+8) @Controller
+9) @GetMapping
 
 ## Tools
 1) h2 db.
