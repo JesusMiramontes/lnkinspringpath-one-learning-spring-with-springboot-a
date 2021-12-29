@@ -15,6 +15,8 @@ Code part of course: https://www.linkedin.com/learning/learning-spring-with-spri
 10) @RunWith(SpringJUnit4ClassRunner.class)
 11) @WebMvcTest
 12) @MockBean
+13) Comparator.comparing
+14) @RestController
 
 ## Tools
 1) h2 db.
