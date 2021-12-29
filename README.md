@@ -12,7 +12,12 @@ Code part of course: https://www.linkedin.com/learning/learning-spring-with-spri
 7) @RequestMapping
 8) @Controller
 9) @GetMapping
+10) @RunWith(SpringJUnit4ClassRunner.class)
+11) @WebMvcTest
+12) @MockBean
 
 ## Tools
 1) h2 db.
 2) Thymeleaf
+3) JUnit4
+4) Mockito
